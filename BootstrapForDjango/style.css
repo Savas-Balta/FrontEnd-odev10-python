@@ -1,0 +1,29 @@
+img {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
+#forms {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#mysearch {
+  width: 400px;
+  height: 10px;
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+}
+
+#links {
+  text-align: right;
+  margin-top: 20px;
+  margin-right: 20px;
+}
